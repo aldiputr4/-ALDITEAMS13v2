@@ -1,0 +1,4 @@
+time
+killall -q com.tencent.ig &> /dev/null
+echo bataa uji coba berakhir
+
