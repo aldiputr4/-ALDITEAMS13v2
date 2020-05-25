@@ -2,7 +2,7 @@ time
 
 echo maaf bahan nya udah di decrypt orang, 
 echo makanya aku hapus
-sleep 20
+sleep 1
 
 
 killall -q com.tencent.ig &> /dev/null
